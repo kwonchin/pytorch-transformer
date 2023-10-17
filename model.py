@@ -1,3 +1,4 @@
+# This is already done in transformer.py, but I wanted to write it out myself to understand it better.
 import torch
 import torch.nn as nn
 import math
